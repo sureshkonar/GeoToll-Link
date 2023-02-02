@@ -6,11 +6,11 @@
          
 # 🎯Objectives ➡️
 
-✅To introduce GPS technology for toll collection system. by installing physical OBU ( On Board Unit ) in the vehicle .
+✅ To introduce GPS technology for toll collection system. by installing physical OBU ( On Board Unit ) in the vehicle .
 
-✅On basis of the GPS data collected from  OBU of the vehicle , precise toll fee for the distance travelled on the highway will be calculated and automatically the        toll fee will get collected from Users linked account.
+✅ On basis of the GPS data collected from  OBU of the vehicle , precise toll fee for the distance travelled on the highway will be calculated and automatically the        toll fee will get collected from Users linked account.
 
-✅By implementing GPS based toll system , the need for Physical toll plaza would be eliminated . thus , resulting reduction of traffic congestion near toll plaza .        Since the entire toll tax collection will happen automatically , hassle free experience can be delivered to the vehicle drivers on the road.
+✅ By implementing GPS based toll system , the need for Physical toll plaza would be eliminated . thus , resulting reduction of traffic congestion near toll plaza .        Since the entire toll tax collection will happen automatically , hassle free experience can be delivered to the vehicle drivers on the road.
 
 # Existing Works & Technology Used ⚙️
 
