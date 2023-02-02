@@ -15,29 +15,41 @@
 # Existing Works & Technology Used ⚙️
 
 ●	RFID based
+
 ●	Computer Vision based
+
 ●	NFC Based Toll Plaza System
 
 # Block Diagram 🧠
 
 ![image](https://user-images.githubusercontent.com/74930080/216288098-2c5f50fa-0302-4aae-8f20-7c1ee91820d9.png)
 
-# Hardware & Software Requirements ( Technology & Tools ) 💻➡️
+# Hardware & Software Requirements (Technology & Tools)💻➡️
 
-1) Raspberry Pi ![image](https://user-images.githubusercontent.com/74930080/216290918-4ed5dbca-a83b-4487-885f-e76bd46c3304.png)
+1) Raspberry Pi 
 
-
-2) Nav G.P.S Module  ![image](https://user-images.githubusercontent.com/74930080/216291167-5da5a190-0155-48cb-80e8-270f1e7e16b6.png)
-
-
-3) Bread Board  ![image](https://user-images.githubusercontent.com/74930080/216291651-3f6696ae-bd8e-4c6b-9906-5e39942da3ca.png)
+![image](https://user-images.githubusercontent.com/74930080/216290918-4ed5dbca-a83b-4487-885f-e76bd46c3304.png)
 
 
-4) Wire Connectors ![image](https://user-images.githubusercontent.com/74930080/216291829-529bd98e-8c02-4673-bce3-24b5212b8dea.png)
+2) Nav G.P.S Module 
+
+![image](https://user-images.githubusercontent.com/74930080/216291167-5da5a190-0155-48cb-80e8-270f1e7e16b6.png)
 
 
-5) Amazon Web Services ( AWS ) ![image](https://user-images.githubusercontent.com/74930080/216291919-a0de1552-30c8-421b-baf1-2b73237d3a59.png)
+3) Bread Board 
+
+![image](https://user-images.githubusercontent.com/74930080/216291651-3f6696ae-bd8e-4c6b-9906-5e39942da3ca.png)
 
 
-6) ( Frontend Requirement for payement gateways )
+4) Wire Connectors 
+
+![image](https://user-images.githubusercontent.com/74930080/216291829-529bd98e-8c02-4673-bce3-24b5212b8dea.png)
+
+
+5) Amazon Web Services ( AWS ) 
+
+![image](https://user-images.githubusercontent.com/74930080/216291919-a0de1552-30c8-421b-baf1-2b73237d3a59.png)
+
+
+6) ( Frontend Requirement for payment gateways )
 
