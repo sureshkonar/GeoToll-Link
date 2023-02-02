@@ -43,7 +43,7 @@
 
 4) Wire Connectors 
 
-![image](https://user-images.githubusercontent.com/74930080/216291829-529bd98e-8c02-4673-bce3-24b5212b8dea.png)
+![image](https://user-images.githubusercontent.com/74930080/216294109-0c46c36c-a79e-4672-b04a-3d0cfe3b1ba2.png)
 
 
 5) Amazon Web Services ( AWS ) 
