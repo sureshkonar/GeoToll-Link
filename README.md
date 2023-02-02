@@ -1,7 +1,5 @@
 # Location-based-Dynamic-toll-tax-system 🗺️📌🚗
 
-# Project Overview 
-
 # Problem Statements 📌 & Abstract 📝
 
          Transportation has emerged as a dominant part of India. Toll plazas play a crucial role in maintaining road transportation. At present, manual toll collection is the most widely used collection method in India. It significantly requires a toll collector or attendant. Due to manual intervention, the processing time at toll plazas is highest. The project has been designed for the automation of toll tax payments using GPS Technology. Automation of toll plaza has been experimented using combination of Microcontroller, RFID, Global positioning system, Global system for Mobile. Implementation of automation in toll plaza enhances the monitoring of vehicles that are traveling in predestined routes. This project aims in designing a system, which automatically identifies the vehicle that advance towards the Starting point of the highway and initiates the system to process the distance traveled through the highway . If a vehicle diverts from the highway rather using the full stretch of highway the GPS module will initiate a end point on the system where the vehicle diverts from the highway and  then predetermined amount is automatically taken from the user account Here the GPS based highway toll collection system will acquire GPS coordinates constantly to pinpoint the position of travelling vehicles.
@@ -24,15 +22,20 @@
 
 # Hardware & Software Requirements ( Technology & Tools ) 💻➡️
 
-1) Raspberry Pi
+1) Raspberry Pi ![image](https://user-images.githubusercontent.com/74930080/216290918-4ed5dbca-a83b-4487-885f-e76bd46c3304.png)
 
-2) Nav G.P.S Module
 
-3) Bread Board
+2) Nav G.P.S Module  ![image](https://user-images.githubusercontent.com/74930080/216291167-5da5a190-0155-48cb-80e8-270f1e7e16b6.png)
 
-4) Wire Connectors
 
-5) Amazon Web Services ( AWS )
+3) Bread Board  ![image](https://user-images.githubusercontent.com/74930080/216291651-3f6696ae-bd8e-4c6b-9906-5e39942da3ca.png)
+
+
+4) Wire Connectors ![image](https://user-images.githubusercontent.com/74930080/216291829-529bd98e-8c02-4673-bce3-24b5212b8dea.png)
+
+
+5) Amazon Web Services ( AWS ) ![image](https://user-images.githubusercontent.com/74930080/216291919-a0de1552-30c8-421b-baf1-2b73237d3a59.png)
+
 
 6) ( Frontend Requirement for payement gateways )
 
