@@ -1,6 +1,6 @@
 # Location-based-Dynamic-toll-tax-system 🗺️📌🚗
 
-#Contributors 👨🏻‍💻📝
+# Contributors 👨🏻‍💻📝
 
 🖊 Suresh Mahalingam Konar & Prathish J S: Raspberry Pi and Neo-6M Gps Interfacing .
 
