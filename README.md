@@ -4,8 +4,8 @@
 
 🖊 Suresh Mahalingam Konar & Prathish J S: 
    
-   ✅ Raspberry Pi and Neo-6M Gps Interfacing .
-
+   ✅ Raspberry Pi and Neo-6M Gps Interfacing.
+   
 🖊 Niranjan Surya Prasad R P & Abishek A M: 
 
    ✅ Created Geolocation Co-ordinates Dataset. 
