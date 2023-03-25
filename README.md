@@ -2,18 +2,27 @@
 
 # Contributors 👨🏻‍💻📝
 
-🖊 Suresh Mahalingam Konar & Prathish J S: Raspberry Pi and Neo-6M Gps Interfacing .
+🖊 Suresh Mahalingam Konar & Prathish J S: 
+   
+   ✅ Raspberry Pi and Neo-6M Gps Interfacing .
 
 🖊 Niranjan Surya Prasad R P & Abishek A M: 
 
    ✅ Created Geolocation Co-ordinates Dataset. 
+   
    ✅ Designed a Python algorithm for Toll tax estimation. 
  
-🖊 Anfinsen Joseph: Payment Automation and Integration.
+🖊 Anfinsen Joseph:
 
-🖊 Abishek H: Created 3D Modelling of On board Unit Case.  
+   ✅ Payment Automation and Integration.
 
-🖊 Vikram & Ugesh C: Designed virtual sample Path.
+🖊 Abishek H: 
+
+   ✅ Created 3D Modelling of On board Unit Case.  
+
+🖊 Vikram & Ugesh C: 
+
+   ✅ Designed virtual sample Path.
 
 # Problem Statements 📌 & Abstract 📝
 
