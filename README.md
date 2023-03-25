@@ -1,5 +1,20 @@
 # Location-based-Dynamic-toll-tax-system 🗺️📌🚗
 
+#Contributors 👨🏻‍💻📝
+
+🖊 Suresh Mahalingam Konar & Prathish J S: Raspberry Pi and Neo-6M Gps Interfacing .
+
+🖊 Niranjan Surya Prasad R P & Abishek A M: 
+
+   ✅ Created Geolocation Co-ordinates Dataset. 
+   ✅ Designed a Python algorithm for Toll tax estimation. 
+ 
+🖊 Anfinsen Joseph: Payment Automation and Integration.
+
+🖊 Abishek H: Created 3D Modelling of On board Unit Case.  
+
+🖊 Vikram & Ugesh C: Designed virtual sample Path.
+
 # Problem Statements 📌 & Abstract 📝
 
    Transportation has emerged as a dominant part of India. Toll plazas play a crucial role in maintaining road transportation. At present, manual toll collection is the most widely used collection method in India. It significantly requires a toll collector or attendant. Due to manual intervention, the processing time at toll plazas is highest. The project has been designed for the automation of toll tax payments using GPS Technology. Automation of toll plaza has been experimented using combination of Microcontroller, RFID, Global positioning system, Global system for Mobile. Implementation of automation in toll plaza enhances the monitoring of vehicles that are traveling in predestined routes. This project aims in designing a system, which automatically identifies the vehicle that advance towards the Starting point of the highway and initiates the system to process the distance traveled through the highway . If a vehicle diverts from the highway rather using the full stretch of highway the GPS module will initiate a end point on the system where the vehicle diverts from the highway and  then predetermined amount is automatically taken from the user account Here the GPS based highway toll collection system will acquire GPS coordinates constantly to pinpoint the position of travelling vehicles.
