@@ -20,7 +20,7 @@
 
       ✅ Created 3D Modelling of On board Unit Case.  
 
-🖊 Vikram & Ugesh C: 
+🖊 [Vikram](https://github.com/Vikram1812) & Ugesh C: 
 
       ✅ Designed virtual sample Path.
 
