@@ -1,4 +1,4 @@
-# GeoTollLink: Intelligent Mobility Tolling System 
+# GeoToll-Link: Intelligent Mobility Tolling System 
 a.k.a Location-based-Dynamic-toll-tax-system 🗺️📌🚗
 
 # Contributors 👨🏻‍💻📝
