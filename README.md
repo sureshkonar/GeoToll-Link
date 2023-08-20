@@ -1,6 +1,8 @@
 # GeoToll-Link: Intelligent Mobility Tolling System 
 a.k.a Location-based-Dynamic-toll-tax-system 🗺️📌🚗
 
+In a nation where transportation reigns supreme, toll plazas stand as linchpins in road networks. Yet, manual toll collection persists, burdening both time and resources. Enter GeoToll-Link—a pioneering solution poised to reshape this landscape. Fueled by GPS technology,Cloud Technology, IoT it transcends the conventional toll plaza. Seamlessly tracking vehicles and distances, it navigates the complexities of highway travel. When a vehicle veers off-route, GPS intervention marks the divergence, initiating an automated toll deduction. Say goodbye to manual delays; GeoToll-Link's real-time accuracy and automation pave the way for smoother journeys, propelling India's transportation into the future.
+
 # Contributors 👨🏻‍💻📝
 
 🖊 Suresh Mahalingam Konar & Prathish J S: 
