@@ -81,3 +81,7 @@ In a nation where transportation reigns supreme, toll plazas stand as linchpins 
 
 https://www.youtube.com/watch?v=m-TeivZ9qUo
 
+# 📝 Project Report Link
+
+https://docs.google.com/document/d/15ikY2dkZ1iSqgGZokx1rH_T3LVaTV33E/edit?usp=sharing&ouid=102692233873062006232&rtpof=true&sd=true
+
