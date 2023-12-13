@@ -15,7 +15,7 @@ In a nation where transportation reigns supreme, toll plazas stand as linchpins 
    
       ✅ Designed a Python algorithm for Toll tax estimation. 
  
-🖊 Anfinsen Joseph:
+🖊 [Anfinsen Joseph](https://github.com/Anfinsen55):
 
       ✅ Payment Automation and Integration.
 
