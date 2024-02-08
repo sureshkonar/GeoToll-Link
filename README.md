@@ -9,7 +9,7 @@ In a nation where transportation reigns supreme, toll plazas stand as linchpins 
    
       ✅ Raspberry Pi and Neo-6M Gps Interfacing.
    
-🖊 [Niranjan Surya Prasad R P](https://github.com/NiranjanJoker) & Abishek A M: 
+🖊 [Niranjan Surya Prasad R P](https://github.com/NiranjanJoker) & [Abishek M](https://github.com/abishek-ctrl): 
 
       ✅ Created Geolocation Co-ordinates Dataset. 
    
